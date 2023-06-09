@@ -1,0 +1,15 @@
+export const productManagers = [
+  {label: 'Ashish Srivastava', value: 'Ashish Srivastava'},
+  {label: 'Bhuwan Jain', value: 'Bhuwan Jain'},
+  {label: 'Divya Dhuria', value: 'Divya Dhuria'},
+  {label: 'Gourav Goyal', value: 'Gourav Goyal'},
+  {label: 'Manish Yadav', value: 'Manish Yadav'},
+  {label: 'Manjeet Sharma', value: 'Manjeet Sharma'},
+  {label: 'Navneet Srivastava', value: 'Navneet Srivastava'},
+  {label: 'Saurabh Rastogi', value: 'Saurabh Rastogi'},
+  {label: 'Shalvika Sood', value: 'Shalvika Sood'},
+  {label: 'Saurabh Chowdhury', value: 'Saurabh Chowdhury'},
+  {label: 'Sudesh Bainsla', value: 'Sudesh Bainsla'},
+  {label: 'Summet Mehta', value: 'Summet Mehta'},
+  {label: 'Vikas Singhal', value: 'Vikas Singhal'},
+];
